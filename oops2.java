@@ -10,3 +10,6 @@ class main{
         System.out.println("the number is ->"+obj.i);
     }
 }
+/*a constructor have no arguments called non parameterized constructor
+Once a constructor is declared private, it cannot be accessed from outside the class. So, 
+creating objects from outside the class is prohibited using the private constructor./*
